@@ -1,5 +1,5 @@
 {
-  "name": "react-default",
+  "name": "goit-react-hw-04-hooks-feedback",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -26,13 +26,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OlesiaNazarenko/goit-react-hw-02-feedback.git"
+    "url": "git+https://github.com/OlesiaNazarenko/goit-react-hw-04-hooks-feedback.git"
   },
   "author": "Olesia Nazarenko <eightpa8@gmail.com>",
   "bugs": {
-    "url": "https://github.com/OlesiaNazarenko/goit-react-hw-02-feedback/issues"
+    "url": "https://github.com/OlesiaNazarenko/goit-react-hw-04-hooks-feedback/issues"
   },
-  "homepage": "https://OlesiaNazarenko.github.io/goit-react-hw-02-feedback",
+  "homepage": "https://OlesiaNazarenko.github.io/goit-react-hw-04-hooks-feedback",
   "eslintConfig": {
     "extends": [
       "react-app",

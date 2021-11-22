@@ -1,23 +1,21 @@
-.btnList{
-    list-style-type: none;
-    display:flex;
-    justify-content: space-between;
-    padding: 0;
-    width: 230px;
-
+.btnList {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+  width: 230px;
 }
-.btn{
-    text-transform: uppercase;
-    border:none;
-    padding:10px;
+.btn {
+  text-transform: uppercase;
+  border: none;
+  padding: 10px;
 }
-.btn[value="good"]{
-    background-color: lightgreen;
+.btn[name='good'] {
+  background-color: lightgreen;
 }
-.btn[value="neutral"] {
+.btn[name='neutral'] {
   background-color: skyblue;
 }
-.btn[value='bad'] {
-  background-color:orangered;
+.btn[name='bad'] {
+  background-color: orangered;
 }
-
